@@ -4,7 +4,7 @@ public class Factorial {
 	 */
 	public static void Main (String[] args) {
 		boolean sabeProgramar = false
-		if(!sabProgramar) {
+		if(!sabeProgramar) {
 			System.out.println("Josemi no sabe programar");
 		}
 	}
