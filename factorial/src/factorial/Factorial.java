@@ -12,13 +12,18 @@ package factorial;
  */
 public class Factorial {
 
+    private static int fact(int x) {
+        return (x == 0) ? 1 : x * fact(x - 1);
+    }
+
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         boolean sabeProgramar = false;
-        if (!sabeProgramar)
+        if (!sabeProgramar) {
             System.out.println("Josemi no sabe programar");
+        }
     }
-    
+
 }
