@@ -1,9 +1,5 @@
-// QUE SI SE HACEN LOS CAMBIOS
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+// Cambio de limpieza de comentarios
+
 package factorial;
 
 /**
